@@ -1,4 +1,4 @@
-# United Pets Supabase Starter
+# K9Cadet
 
 This repository contains a static [Next.js](https://nextjs.org/) frontend that is designed to be exported as a set of static files and hosted on a traditional web host.  The dynamic portions of the application—authentication, database operations, file uploads, appointment scheduling, and payments—are powered by [Supabase](https://supabase.com) and [Stripe](https://stripe.com).
 
